@@ -1,4 +1,4 @@
-# AC-DOS On Python 3.11.1 64-bit
+# AC-DOS on Python 3.11.1 64-bit
 Welcome to AC-DOS! Please download Python 3.11.1 64-bit IDE to run this file. 
 
 ↓↓↓ Download link below ↓↓↓
